@@ -1,0 +1,48 @@
+h2{
+
+	color: blue;
+	font-family: georgia;
+	text-align: center;
+}
+
+#first {
+		position: relative;
+		overflow: auto;
+		top: 5px;
+		height: 120px;
+		width: 1200px;
+		border: solid;
+		border-color: red;
+		cursor: pointer;
+		font-size: 16px;
+
+}
+
+#second {
+		position: relative;
+		overflow: auto;
+		top: 15px;
+		height: 120px;
+		width: 1200px;
+		border: solid;
+		border-color: red;
+		cursor: pointer;
+		font-size: 16px;
+
+}
+
+.fitem{
+	cursor: pointer;
+
+}
+
+.sitem{
+	cursor: pointer;
+}
+
+.ell{
+	padding: 40px;
+	width: 50px;
+	border-radius: 20px;
+
+}
